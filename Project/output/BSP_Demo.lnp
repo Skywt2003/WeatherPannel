@@ -1,0 +1,5 @@
+".\output\main.obj",
+".\source\STCBSP_V3.6.LIB" 
+TO ".\output\BSP_Demo" 
+PRINT(".\list\BSP_Demo.m51") RAMSIZE(256) 
+XDATA( 0X0000-0X07FF )
